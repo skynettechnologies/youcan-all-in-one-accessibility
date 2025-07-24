@@ -1,0 +1,14 @@
+{
+    "name": "youcan-all-in-one-accessibility",
+    "id": "app_EuSpzRCqoPlsMIdcHlb04nqQsKK",
+    "app_url": "https://lbs-flu-affairs-holder.trycloudflare.com",
+    "redirect_urls": [
+        "https://lbs-flu-affairs-holder.trycloudflare.com/auth/callback"
+    ],
+    "oauth": {
+        "scopes": [
+            "view-store-info"
+        ],
+        "client_id": "1589"
+    }
+}
