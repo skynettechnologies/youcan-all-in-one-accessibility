@@ -154,17 +154,19 @@ English (USA), English (UK), English (Australian), English (Canadian), English (
 
 ## Installation
 
-  Step 1: Go to the YouCan Marketplace, search "All in One Accessibility" App
-  Step 2: Click on install App option, it will redirect to Authorize Page.
-  Step 3: Click on Authorize App option, it will install the App on YouCan Admin.
-  Step 4: After App is installed, It will redirect to App Page or You can find App under Apps Menu on YouCan Admin.
-  Step 5: Now, Go to your YouCan Store Section, Select Themes (New) option.
-  Step 6: Select Customize option, It will open Editor.
-  Step 7: Select Code Editor option which is showing on Top Right side.
-  Step 8: Select Snippets -> head-config.liquid.
-  Step 9: Add the All in One Accessibility widget code ```<script id="aioa-adawidget" src="https://www.skynettechnologies.com/accessibility/js/all-in-one-accessibility-js-widget-minify.js?colorcode=#420083&token=&position=bottom_right"></script>```
-  Step 10: Save the changes and exit from Code Editor.
-  Step 11: Now All in One Accessibility Widget is showing on YouCan Store.
+```
+Step 1: Go to the YouCan Marketplace, search "All in One Accessibility" App
+Step 2: Click on install App option, it will redirect to Authorize Page.
+Step 3: Click on Authorize App option, it will install the App on YouCan Admin.
+Step 4: After App is installed, It will redirect to App Page or You can find App under Apps Menu on YouCan Admin.
+Step 5: Now, Go to your YouCan Store Section, Select Themes (New) option.
+Step 6: Select Customize option, It will open Editor.
+Step 7: Select Code Editor option which is showing on Top Right side.
+Step 8: Select Snippets -> head-config.liquid.
+Step 9: Add the All in One Accessibility widget code ```<script id="aioa-adawidget" src="https://www.skynettechnologies.com/accessibility/js/all-in-one-accessibility-js-widget-minify.js?colorcode=#420083&token=&position=bottom_right"></script>```
+Step 10: Save the changes and exit from Code Editor.
+Step 11: Now All in One Accessibility Widget is showing on YouCan Store.
+```
 
 ## CORS Policy Configuration
 
